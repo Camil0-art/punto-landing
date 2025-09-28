@@ -55,18 +55,18 @@ nav a {
 
 .container {
   width: 100%;
-  text-align: center; /* Para centrar los elementos inline-block */
+  text-align: center; 
   padding: 60px 50px;
 }
 
 .text-box, .img-box {
-  display: inline-block;   /* Coloca texto e imagen uno al lado del otro */
-  vertical-align: middle;  /* Centrado vertical */
+  display: inline-block;   
+  vertical-align: middle;  
 }
 
 .text-box {
   width: 45%; 
-  text-align: left;  /* Texto alineado a la izquierda como en tu ejemplo */
+  text-align: left;  
 }
 
 .text-box h1 {
@@ -97,7 +97,7 @@ nav a {
 }
 
 .img-box img {
-  width: 100%;   /* Ajusta la imagen al ancho */
-  max-width: 400px; /* Límite para que no se deforme */
+  width: 100%;   
+  max-width: 400px; 
 }
 
